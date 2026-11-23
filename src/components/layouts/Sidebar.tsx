@@ -96,7 +96,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
               <GraduationCap className="h-6 w-6" />
             </div>
             <div>
-              <h1 className="text-sm font-bold tracking-tight text-white uppercase">Qodex IMS</h1>
+              <h1 className="text-sm font-bold tracking-tight text-white uppercase">Quest IMS</h1>
               <p className="text-[10px] text-teal-200 tracking-wider font-medium">Internship Portal</p>
             </div>
           </div>
